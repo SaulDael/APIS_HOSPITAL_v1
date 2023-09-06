@@ -18,7 +18,7 @@ el front-end en react o flutter
  * JWT
    
 # Instalacion
-- Clone the repository: git clone https://github.com/SaulDael/APIS_Login_SpringBootSecurity
+- Clone the repository: git clone https://github.com/SaulDael/APIS_HOSPITAL_v1
 - Navigate to the project directory: cd your-repo
 - Build the project using Maven:: mvn clean install
 - Run the project: mvn spring-boot:run
